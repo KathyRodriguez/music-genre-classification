@@ -35,4 +35,4 @@ The Music Genre Classification model is released under the MIT License.
 
 ## Contact
 
-If you have any questions or feedback about the Music Genre Classification model, please contact me at john.doe@example.com.
+If you have any questions or feedback about the Music Genre Classification model, please contact me at 1mrs.python@gmail.com
